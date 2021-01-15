@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="R" format="2">
+  <advance width="500"/>
+  <unicode hex="0052"/>
+  <image fileName="R_-10_12.png" xScale="2.3191728011791253" yScale="2.3191728011791306" xOffset="-15.756613916145568" yOffset="-83.8219219793987"/>
+  <guideline x="280" y="401" angle="90" identifier="CS4R3NCrRi"/>
+  <outline>
+  </outline>
+</glyph>

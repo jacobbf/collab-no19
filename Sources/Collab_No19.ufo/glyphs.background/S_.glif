@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="S" format="2">
+  <advance width="500"/>
+  <unicode hex="0053"/>
+  <image fileName="D_S_.png" xScale="3.3219055351196323" yScale="3.3219055351196327" xOffset="-221.39360155231017" yOffset="-57.58382985485754"/>
+  <guideline x="241" y="178" angle="90" identifier="hCZGXfmZQp"/>
+  <outline>
+  </outline>
+</glyph>
